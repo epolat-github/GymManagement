@@ -10,7 +10,7 @@ database was used.
 5. Also in database, additional informations
 are being kept like balance situations, trainer
 informations and relations between each section
-course.
+and course.
 
 ## Requirements
 1. [Oracle database](https://www.oracle.com/downloads/)
