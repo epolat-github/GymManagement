@@ -7,6 +7,10 @@ database was used.
 2. Adding, updating and deleting courses,
 3. Assigning sections to courses,
 4. Listing all customers with their courses.
+5. Also in database, additional informations
+are being kept like balance situations, trainer
+informations and relations between each section
+course.
 
 ## Requirements
 1. [Oracle database](https://www.oracle.com/downloads/)
